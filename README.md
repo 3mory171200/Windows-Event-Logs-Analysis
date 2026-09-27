@@ -1,4 +1,4 @@
-# Windows Security Event Logs & SOC Analyst Journey
+<img width="1909" height="1077" alt="image" src="https://github.com/user-attachments/assets/d6eb242a-d9ad-4b0d-8cce-716280729257" /># Windows Security Event Logs & SOC Analyst Journey
 
 Welcome to my security investigation repository! Here I document my hands-on learning journey in **Security Operations Center (SOC)** operations, threat hunting, and Windows event log analysis.
 
@@ -17,3 +17,4 @@ As an aspiring SOC analyst, I am focusing on analyzing core Windows security eve
 
 ---
 *Created by **Amer Elbaba***
+<img width="1909" height="1077" alt="8fc8397f-3419-48a7-816a-35c742cb644d" src="https://github.com/user-attachments/assets/d2867f14-3f23-4e14-8853-9ddb4751be3d" />
