@@ -55,6 +55,6 @@ The Monitoring Challenge: Traditional process creation logs (like Sysmon Event I
 The Forensic Artifact (ConsoleHost_history.txt): PowerShell automatically maintains a plain text history file that records every command entered, updating in real-time upon pressing Enter:
 
 %appdata%\Microsoft\Windows\PowerShell\PSReadLine
+<img width="1772" height="794" alt="image" src="https://github.com/user-attachments/assets/be17ccd0-4792-479b-aa8e-7b133ba59300" />
 
 
-![Uploading image.png…]()
